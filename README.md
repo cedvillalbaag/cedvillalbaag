@@ -29,10 +29,12 @@
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 
 <br/>
+
 ---
+
 <br/>
 
-### Credits
+### 🔹 Credits
 [Foto de Josh Sorenson en Pexels](https://www.pexels.com/es-es/foto/foto-de-cuerpo-de-agua-durante-la-hora-dorada-1025349/)
 
 <!-- Links -->
