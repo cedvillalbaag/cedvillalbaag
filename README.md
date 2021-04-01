@@ -1,6 +1,6 @@
 ### 👋 Hi,  I’m [Carlos Villalba][website]
 
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/cedvillalba?logo=twitter)](https://twitter.com/cedvillalba)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
