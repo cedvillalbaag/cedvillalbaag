@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cedvillalba?logo=twitter)](https://twitter.com/cedvillalba)
 
-[<img width=400 height=150 src="https://i.ibb.co/zJdJWcy/pexels-josh-sorenson-1025349.jpg" alt="pexels-josh-sorenson-1025349" border="0">][website]
+[<img width=800 height=150 src="https://i.ibb.co/zJdJWcy/pexels-josh-sorenson-1025349.jpg" alt="pexels-josh-sorenson-1025349" border="0">][website]
 ---
 
 
