@@ -6,10 +6,8 @@
 ---
 ### 👨🏼‍💻 Mechanical Engineer - 🎻 Cellist
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about Web Design, Data Analysis & Visualization, Excel Automation with Python.
+- 📫 How to reach me: ced.villalbaag@gmail.com
 
 ---
 
@@ -27,6 +25,8 @@
 <img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"/>
 
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+
+<img align="left" alt="excel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/excel/excel.png"/>
 
 <br/>
 
