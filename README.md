@@ -7,7 +7,9 @@
 ### 👨🏼‍💻 Mechanical Engineer - 🎻 Cellist
 
 - 🌱 I’m currently learning about Web Design, Data Analysis & Visualization, Excel Automation with Python, Desktop Application Development.
+
 - 📫 How to reach me: ced.villalbaag@gmail.com
+
 
 ---
 
@@ -39,6 +41,6 @@
 <!-- Links -->
 [website]: https://www.linkedin.com/in/carlosvillalbaaguilera/
 
-
+<!-- Links -->
 
 
