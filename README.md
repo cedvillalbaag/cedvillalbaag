@@ -2,7 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cedvillalba?logo=twitter)](https://twitter.com/cedvillalba)
 
-## [<img width=850 height=200 src="https://i.ibb.co/zJdJWcy/pexels-josh-sorenson-1025349.jpg" alt="pexels-josh-sorenson-1025349" border="0">][website]
 
 ### 👨🏼‍💻 Mechanical Engineer - 🎻 Cellist
 
@@ -34,9 +33,7 @@
 
 <br/>
 
-### 🔹 Credits
 
-[Foto de Josh Sorenson en Pexels](https://www.pexels.com/es-es/foto/foto-de-cuerpo-de-agua-durante-la-hora-dorada-1025349/)
 
 <!-- Links -->
 
