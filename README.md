@@ -1,4 +1,4 @@
-### 👋 Hi, I’m [Carlos Villalba][website] 👋
+### 👋 Hi, I’m [Carlos Villalba] 👋
 
 - Mechanical Engineer with a passion for Data Science and Application Development.
 - I transform operational problems into efficient solutions through the development of interactive dashboards, report automation (OpenPyXL) and the development of Machine Learning models.
