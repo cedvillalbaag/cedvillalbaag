@@ -1,42 +1,6 @@
 ### 👋 Hi, I’m [Carlos Villalba][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cedvillalba?logo=twitter)](https://twitter.com/cedvillalba)
+Mechanical Engineer with a passion for Data Science and Application Development. I transform operational problems into efficient solutions through the development of interactive dashboards, report automation (OpenPyXL) and the development of Machine Learning models. Expert in Python, TensorFlow, and SQL database management (MySQL, PostgreSQL), with experience in SAP PM and MM to optimize maintenance, inventory and operations management. My goal is to document my learning and show how engineering and programming come together to solve real-world challenges.
 
+** - 📫 How to reach me: ** ced.villalbaag@gmail.com
 
-### 👨🏼‍💻 Mechanical Engineer - 🎻 Cellist
-
-- 🌱 I’m currently learning about Web Design, Data Analysis & Visualization, Excel Automation with Python, Desktop Application Development.
-
-- 📫 How to reach me: ced.villalbaag@gmail.com
-
----
-
-### 🕶️ Coding
-
-<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-
-<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-
-<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"/>
-
-<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-
-<img align="left" alt="postgre" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
-
-<br/>
-
----
-
-<br/>
-
-
-
-<!-- Links -->
-
-[website]: https://www.linkedin.com/in/carlosvillalbaaguilera/
-
-<!-- Links -->
