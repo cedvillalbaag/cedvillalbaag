@@ -1,9 +1,24 @@
 ### 👋 Hi, I’m [Carlos Villalba] 👋
 
-- Mechanical Engineer with a passion for Data Science and Application Development. Over 10 years of experience in operations optimization and maintenance management.
-- I transform operational problems into efficient solutions through the development of interactive dashboards, report automation (OpenPyXL) and the development of Machine Learning models.
-- Expert in Python, TensorFlow, and SQL database management (MySQL, PostgreSQL), with experience in SAP PM and MM to optimize maintenance, inventory and operations management.
-- My goal is to document my learning and show how engineering and programming come together to solve real-world challenges.
+- Mechanical Engineer with a passion for Data Science and Tools & Application Development. Over 10 years of experience in operations optimization and maintenance management.
+
+- Core Skills:
+  - Maintenance & Reliability.
+  - Inventory Management.
+  - Data Analysis & Visualization.
+  - QA Automation.
+  - ERP: SAP MM/PM Key User & Master Data.
+
+- My goal is to document my learning and show how engineering and programming come together to solve real-world challenges (Technical portfolio).
+
+
+---
+
+
+### 📫 Contact
+How to reach me:
+* **LinkedIn:** [[Linkedin Profile](https://www.linkedin.com/in/carlosvillalbaaguilera/?locale=en_US)]
+* **Correo:** [ced.villalbaag@gmail.com]
 
 ---
 
@@ -52,10 +67,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedvillalbaag&show_icons=true&theme=radical)
 
----
 
-### 📫 Contact
-How to reach me:
-* **LinkedIn:** [[Linkedin Profile](https://www.linkedin.com/in/carlosvillalbaaguilera/?locale=en_US)]
-* **Correo:** [ced.villalbaag@gmail.com]
 
