@@ -35,10 +35,15 @@
 
 ### 🚀 Featured Projects
 
-#### [Project Name 1]
-* **Description:** A web application for managing daily tasks.
-* **Technologies:** React, Node.js, Express, MongoDB.
-* **Repository:** [Link to repository]
+#### [Realiability with Python]
+* **Description:** Realiability Calculation.
+* **Technologies:** Python, Maintenance & Reliabiity Engineering.
+* **Repository:** [Link to repository](https://github.com/cedvillalbaag/reliabilitylibrary_exercises)
+
+#### [Finance Analysis Report]
+* **Description:** Acummulated Returns & Drawdown Analysis.
+* **Technologies:** Python (Pandas, Matplotlib, Yfinance, FPDF)
+* **Repository:** [Link to repository](https://github.com/cedvillalbaag/cummreturns-drawdown_analysis)
 
 ---
 
