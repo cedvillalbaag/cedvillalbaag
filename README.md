@@ -61,7 +61,12 @@ How to reach me:
 * **Repository:** [Link to repository](https://github.com/cedvillalbaag/cummreturns-drawdown_analysis)
 
 ---
+### 📚 Education
 
+* MS Maintenance Management.
+
+* BS Mechanical Engineering.
+---
 
 ### 📈 My GitHub Stats
 
