@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m [Carlos Villalba] 👋
 
-- Mechanical Engineer with a passion for Data Science and Tools & Application Development. Over 10 years of experience in operations optimization and maintenance management.
+- Mechanical Engineer with a passion for Data Science and Tools & Application Development. Over 10 years of experience in Operations optimization and Maintenance management.
 
 - Core Skills:
-  - Maintenance & Reliability.
-  - Inventory Management.
+  - Maintenance & Reliability Engineering.
+  - Supply Chain & Operations Management.
   - Data Analysis & Visualization.
   - QA Automation.
   - ERP: SAP MM/PM Key User & Master Data.
@@ -49,16 +49,39 @@ How to reach me:
 
 
 ### 🚀 Featured Projects
+#### Data Analytics:
 
-#### [Realiability with Python]
-* **Description:** Realiability Calculation.
-* **Technologies:** Python, Maintenance & Reliabiity Engineering.
-* **Repository:** [Link to repository](https://github.com/cedvillalbaag/reliabilitylibrary_exercises)
 
-#### [Finance Analysis Report]
-* **Description:** Acummulated Returns & Drawdown Analysis.
-* **Technologies:** Python (Pandas, Matplotlib, Yfinance, FPDF)
-* **Repository:** [Link to repository](https://github.com/cedvillalbaag/cummreturns-drawdown_analysis)
+
+#### Maintenance & Reliability:
+
+📦 **[inventory-data-analyzer](https://github.com/tu-usuario/inventory-data-analyzer)** | ABC/XYZ classification tool and rotation of critical MRO spare parts. | Python, Pandas, Matplotlib
+
+📦 **[reliability-with-python](https://github.com/cedvillalbaag/reliabilitylibrary_exercises)** | Reliability Calculation.| Python, Maintenance & Reliabiity Engineering.
+
+
+#### Market Technical Analysis:
+📦 **[finance-analysis-report](https://github.com/cedvillalbaag/cummreturns-drawdown_analysis)** | Acummulated Returns & Drawdown Analysis. | Python (Pandas, Matplotlib, Yfinance, FPDF).
+
+
+#### Supply Chain & Operations Management:
+
+
+#### Testing & Automation IT:
+
+#### 📖 Readings and Continuous Learning:
+
+Mantenimiento y Confiabilidad
+📖 **[Reliability-Centered Maintenance (RCM2)]() — John Moubray(technical-reading-notes) | |.
+📖 **[TPM Development Program — Seiichi Nakajima]()| | .
+
+Analítica y Visualización	
+* Storytelling with Data — Cole Nussbaumer Knaflic
+* Designing Data-Intensive Applications — Martin Kleppmann
+
+Metodología y Productividad:
+* The Goal (La Meta) — Eliyahu M. Goldratt
+* Clean Code (Capítulos de arquitectura y calidad) — Robert C. Martin
 
 ---
 ### 📚 Education
