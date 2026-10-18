@@ -65,7 +65,11 @@ How to reach me:
 
 
 #### Supply Chain & Operations Management:
+**[FSN-inventory-analysis](*https://github.com/cedvillalbaag/fsn_analysis)** | MS Excel | Classification method, based on product consumption or turnover rates, is essential for optimizing inventory management.
 
+**[inventory-optimizer-tool](https://github.com/cedvillalbaag/Inventory-Optimizer)** | MS Excel | MS Excel tool designed to calculate key inventory management parameters.
+
+**[forecast-excel-tool](https://github.com/cedvillalbaag/forecast-excel-tool)** | MS Excel | Tool designed to perform demand forecasts using statistical methods.
 
 #### Testing & Automation IT:
 ---
