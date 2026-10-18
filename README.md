@@ -52,7 +52,6 @@ How to reach me:
 #### Data Analytics:
 
 
-
 #### Maintenance & Reliability:
 📦 **[reliability-with-python](https://github.com/cedvillalbaag/reliabilitylibrary_exercises)** | Python, Maintenance & Reliabiity Engineering | Reliability Calculation.
 
@@ -67,10 +66,11 @@ How to reach me:
 
 📦 **[forecast-excel-tool](https://github.com/cedvillalbaag/forecast-excel-tool)** | MS Excel | Tool designed to perform demand forecasts using statistical methods.
 
-#### Testing & Automation IT:
 
 #### Market Technical Analysis:
-📦 **[finance-analysis-report](https://github.com/cedvillalbaag/cummreturns-drawdown_analysis)** | Acummulated Returns & Drawdown Analysis. | Python (Pandas, Matplotlib, Yfinance, FPDF).
+📦 **[cummreturns-drawdown-analysis](https://github.com/cedvillalbaag/cummreturns-drawdown_analysis)** | Python (Pandas, Matplotlib, Yfinance, FPDF) | Acummulated Returns & Drawdown Analysis.
+
+#### Testing & Automation IT:
 ---
 
 ### 📖 Readings and Continuous Learning:
