@@ -54,14 +54,7 @@ How to reach me:
 
 
 #### Maintenance & Reliability:
-
-📦 **[inventory-data-analyzer](https://github.com/tu-usuario/inventory-data-analyzer)** | ABC/XYZ classification tool and rotation of critical MRO spare parts. | Python, Pandas, Matplotlib
-
-📦 **[reliability-with-python](https://github.com/cedvillalbaag/reliabilitylibrary_exercises)** | Reliability Calculation.| Python, Maintenance & Reliabiity Engineering.
-
-
-#### Market Technical Analysis:
-📦 **[finance-analysis-report](https://github.com/cedvillalbaag/cummreturns-drawdown_analysis)** | Acummulated Returns & Drawdown Analysis. | Python (Pandas, Matplotlib, Yfinance, FPDF).
+📦 **[reliability-with-python](https://github.com/cedvillalbaag/reliabilitylibrary_exercises)** | Python, Maintenance & Reliabiity Engineering | Reliability Calculation.
 
 
 #### Supply Chain & Operations Management:
@@ -75,6 +68,9 @@ How to reach me:
 📦 **[forecast-excel-tool](https://github.com/cedvillalbaag/forecast-excel-tool)** | MS Excel | Tool designed to perform demand forecasts using statistical methods.
 
 #### Testing & Automation IT:
+
+#### Market Technical Analysis:
+📦 **[finance-analysis-report](https://github.com/cedvillalbaag/cummreturns-drawdown_analysis)** | Acummulated Returns & Drawdown Analysis. | Python (Pandas, Matplotlib, Yfinance, FPDF).
 ---
 
 ### 📖 Readings and Continuous Learning:
