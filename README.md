@@ -73,7 +73,7 @@ How to reach me:
 ### 📖 Readings and Continuous Learning:
 I maintain a public repository containing notes, mind maps, and practical applications based on my reading on reliability engineering, asset management, and data science.
 
-👉 **[View my book notes](https://github.com/tu-usuario/technical-reading-notes)**
+👉 **[View my book notes](https://github.com/cedvillalbaag/technical-reading-notes)**
 
 ---
 ### 📚 Education
