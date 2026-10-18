@@ -65,6 +65,9 @@ How to reach me:
 
 
 #### Supply Chain & Operations Management:
+
+📦 **[kpi-perfomance-warehouse](https://github.com/cedvillalbaag/KPI_warehouse)** | MS Excel | heir main objective is to measure warehouse efficiency, processes, and performance.
+
 📦 **[FSN-inventory-analysis](https://github.com/cedvillalbaag/fsn_analysis)** | MS Excel | Classification method, based on product consumption or turnover rates, is essential for optimizing inventory management.
 
 📦 **[inventory-optimizer-tool](https://github.com/cedvillalbaag/Inventory-Optimizer)** | MS Excel | MS Excel tool designed to calculate key inventory management parameters.
