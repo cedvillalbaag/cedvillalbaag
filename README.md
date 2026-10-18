@@ -70,6 +70,9 @@ How to reach me:
 #### Market Technical Analysis:
 📦 **[cummreturns-drawdown-analysis](https://github.com/cedvillalbaag/cummreturns-drawdown_analysis)** | Python (Pandas, Matplotlib, Yfinance, FPDF) | Acummulated Returns & Drawdown Analysis.
 
+📦 **[stockperfomanceandrisk_report](https://github.com/cedvillalbaag/stockperfomanceandrisk_report)** | Python (Pandas, Matplotlib, Yfinance, FPDF) | A Python script that performs a comprehensive performance and risk analysis of a financial asset's daily returns.
+
+
 #### Testing & Automation IT:
 ---
 
