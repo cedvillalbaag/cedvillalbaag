@@ -68,20 +68,12 @@ How to reach me:
 
 
 #### Testing & Automation IT:
+---
 
-#### 📖 Readings and Continuous Learning:
+### 📖 Readings and Continuous Learning:
+I maintain a public repository containing notes, mind maps, and practical applications based on my reading on reliability engineering, asset management, and data science.
 
-Mantenimiento y Confiabilidad
-📖 **[Reliability-Centered Maintenance (RCM2)]() — John Moubray(technical-reading-notes) | |.
-📖 **[TPM Development Program — Seiichi Nakajima]()| | .
-
-Analítica y Visualización	
-* Storytelling with Data — Cole Nussbaumer Knaflic
-* Designing Data-Intensive Applications — Martin Kleppmann
-
-Metodología y Productividad:
-* The Goal (La Meta) — Eliyahu M. Goldratt
-* Clean Code (Capítulos de arquitectura y calidad) — Robert C. Martin
+👉 **[View my book notes](https://github.com/tu-usuario/technical-reading-notes)**
 
 ---
 ### 📚 Education
